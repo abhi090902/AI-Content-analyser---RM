@@ -4,3 +4,4 @@ gpt-index
 crewai
 matplotlib
 pandas
+chromadb
