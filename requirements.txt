@@ -1,11 +1,11 @@
-streamlit
+streamlit==1.26.0  # Ensure compatibility with Streamlit Cloud
 openai
 gpt_index
 langchain==0.0.240
 pypdf
 python-dotenv
-chromadb
+chromadb==0.4.0  # Use a stable version
 langchain[docarray]
 langchain-community>=0.1
-faiss-gpu
-crewai
+faiss-cpu  # Use faiss-cpu if GPU isn't available
+crewai  # Add specific version if necessary
