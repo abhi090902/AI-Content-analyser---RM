@@ -1,15 +1,15 @@
-!pip install openai
-!pip install gpt_index
-!pip install LangChain
-!pip install pypdf
-!pip install python-dotenv
-!pip install langchain[docarray]
-!pip install chromadb
-!pip install -U langchain-community
-!pip install faiss-gpu
-!pip install langchain==0.0.240
-!pip install pydantic==2.0.3
-!pip install crewai
+pip install openai
+pip install gpt_index
+pip install LangChain
+pip install pypdf
+pip install python-dotenv
+pip install langchain[docarray]
+pip install chromadb
+pip install -U langchain-community
+pip install faiss-gpu
+pip install langchain==0.0.240
+pip install pydantic==2.0.3
+pip install crewai
 
 import os
 import os
