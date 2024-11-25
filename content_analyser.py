@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from io import StringIO
 
 # Set OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 os.environ['OPENAI_API_KEY'] = openai.api_key
 os.environ["OPENAI_MODEL_NAME"] = 'o1-mini'
 
