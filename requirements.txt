@@ -1,7 +1,11 @@
 streamlit
 openai
-gpt-index
-crewai
-matplotlib
-pandas
+gpt_index
+langchain==0.0.240
+pypdf
+python-dotenv
 chromadb
+langchain[docarray]
+langchain-community>=0.1
+faiss-gpu
+crewai
