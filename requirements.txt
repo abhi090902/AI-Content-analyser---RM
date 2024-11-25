@@ -1,14 +1,6 @@
 streamlit
 openai
 gpt-index
-langchain[docarray]
-pypdf
-python-dotenv
-chromadb
-langchain-community
-faiss-gpu
-langchain==0.0.240
-pydantic==2.0.3
 crewai
 matplotlib
 pandas
