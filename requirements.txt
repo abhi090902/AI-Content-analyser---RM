@@ -1,5 +1,5 @@
 streamlit==1.26.0  # Ensure compatibility with Streamlit Cloud
-openai
+openai==1.11.1
 gpt_index
 langchain==0.0.240
 pypdf
